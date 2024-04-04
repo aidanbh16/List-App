@@ -1,0 +1,60 @@
+.box {
+  border: 2px solid black;
+  padding: 5px;
+  margin: 15vh auto;
+  width: 300px;
+  height: 460px;
+  background-color: whitesmoke;
+}
+
+.textArea {
+  width: 96.5%;
+  height: 45px;
+  resize: none;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+  background-color: white;
+}
+
+.add {
+  height: 45px;
+  width: 40%;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  position: relative;
+  top: 5px;
+  left: 5%;
+  border-radius: 7.5px;
+  background-color: snow;
+}
+
+.clear {
+  height: 45px;
+  width: 40%;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  position: relative;
+  top: 5px;
+  left: 15%;
+  border-radius: 7.5px;
+  background-color: snow;
+}
+
+.listBox {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 5px;
+  border: 1px solid black;
+  height: 325px;
+  word-wrap: break-word;
+  overflow: auto;
+  list-style-type: "- ";
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.delete:hover{
+  text-decoration: line-through;
+  cursor: pointer;
+}
