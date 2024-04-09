@@ -16,7 +16,7 @@ I know I need to look into keys and mapping. I understand that those methods cou
 ## FEATURES
 - Adding items to a list
 - Clearing items from a list
-- deleting select items from a list no matter the position
+- Deleting select items from a list no matter the position
 
 ## GETTING STARTED
 
