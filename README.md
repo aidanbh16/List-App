@@ -13,6 +13,11 @@ I know I need to look into keys and mapping. I understand that those methods cou
 - HTML5
 - CSS
 
+## FEATURES
+- Adding items to a list
+- Clearing items from a list
+- deleting select items from a list no matter the position
+
 ## GETTING STARTED
 
 1. First make sure you run **npm install** before doing anything else
